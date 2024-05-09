@@ -1,4 +1,4 @@
-
+![logo](https://github.com/priyampranshu/priyampranshu/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Priyam Pranshu</h1>
 <h3 align="center">Coding to Tackle Real-world Hurdles</h3>
 
